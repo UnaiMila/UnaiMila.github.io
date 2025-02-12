@@ -1,6 +1,6 @@
-# Unai 
-## Martos
-## Menor
+# Curriculum
+## Unai
+## Martos Menor
 
 1. Estudio
 2. Sistemes
@@ -15,4 +15,21 @@
 
 [Web Mila i Fontanals](https://agora.xtec.cat/iesmila/)
 
-[Foto Mila i Fontanals](https://www.google.com/url?sa=i&url=https%3A%2F%2Fagora.xtec.cat%2Fiesmila%2F&psig=AOvVaw3UxN0D8QjS5zedo5s9IzBj&ust=1739470631555000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCYyJrfvosDFQAAAAAdAAAAABAE)
+![Foto](https://i1.sndcdn.com/artworks-n6MBDPvwIra9wTpc-oMVP0w-t500x500.jpg)
+
+`Hola buenos dias me llamo Unai`
+
+|   Taula   |   Taula   |   Taula   |
+|-----------|-----------|-----------|
+|   Hola    |   Hola    |   Hola    |
+|   Hola    |   Hola    |   Hola    |
+
+> "Hola buenos dias me llamo Unai."
+
+---
+
+[Subtítol 1](#subtítol-1)
+
+💩:
+
+[GeoJSON de Barcelona](https://example.com/barcelona.geojson)
