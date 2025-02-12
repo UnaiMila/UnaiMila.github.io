@@ -32,4 +32,4 @@
 
 💩:
 
-[GeoJSON de Barcelona](https://example.com/barcelona.geojson)
+[GeoJSON de Barcelona]([https://example.com/barcelona.geojson](https://opendata-ajuntament.barcelona.cat/data/es/dataset/20170706-districtes-barris/resource/cd800462-f326-429f-a67a-c69b7fc4c50a))
